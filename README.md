@@ -245,7 +245,15 @@ Raw audio → sampled at 16kHz → padded/trimmed to 3.5s → **Log-Mel Spectrog
 - **Secondary metric:** Weighted F1
 
 ---
+## Live Demo
 
+<h3 align="center">Dashboard & Webcam</h3>
+
+<p align="center">
+  <img src="emotion_result.png" width="45%">
+  <img src="live_webdemo.png" width="45%">
+</p>
+ ---
 ## SOTA Comparison
 
 | Model | UAR | Wtd-F1 | Params | Real-Time? | Reference |
