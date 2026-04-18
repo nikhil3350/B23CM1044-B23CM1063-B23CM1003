@@ -1,6 +1,6 @@
 # 🎙️ Lightweight CRNN Architecture for Real-Time Speech Emotion Recognition
 
-> **Authors:** Zula Kathan (B23CM1063) · Aditya Kashyap (B23CM1003) · Nikhil Upadhye (B23CM1044)
+> **Authors:** Zula Kathan (B23CM1063) · Nikhil Upadhye (B23CM1044) · Aditya Kashyap (B23CM1003) 
 
 A resource-efficient hybrid neural network for real-time Speech Emotion Recognition (SER) that combines **MobileNetV2** spatial feature extraction with **Bidirectional GRU** temporal modeling and **soft temporal attention** — achieving competitive accuracy at only **4.1M parameters**, deployable on edge devices with sub-200ms latency.
 
