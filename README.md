@@ -185,9 +185,8 @@ jupyter notebook speech-emotion-crnn-final.ipynb
 | 4 | Mel spectrogram extraction + augmentation + DataLoaders | ~2 min |
 | 5 | Define BaselineCNN, LightweightCRNN, TemporalAttention | < 1 min |
 | 6 | FocalLoss, training loop, evaluation utilities | < 1 min |
-| 7B | Load saved baseline weights (skip Cell 7 if .pth exists) | < 1 min |
-| 8B | Resume CRNN training OR load saved weights | ~30 min (resume) |
-| 8C | Plot CRNN training history from log | < 1 min |
+| 7 | Trained baseline weights for CNN | ~3 hrs 30 min |
+| 8 | CRNN training | ~4 hours (resume) |
 | 9 | Ablation study (2 × 10 epoch runs) | ~2 hours |
 | 10 | Final test set evaluation + per-class report | ~5 min |
 | 11 | Confusion matrix visualization | < 1 min |
